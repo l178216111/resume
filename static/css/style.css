@@ -125,10 +125,6 @@ body {
     font-family: sans-serif, Microsoft Yahei, Helvetica Neue;
     zoom: 80%;
 }
-
-footer {
-}
-
 p {
     line-height: 1.5;
 }
@@ -137,8 +133,6 @@ progress {
     background-color: #f6f6f6;
     display: inline;
     /*width: 195px;*/
-    height: 1em;
-
 }
 
 progress::-webkit-progress-bar {
